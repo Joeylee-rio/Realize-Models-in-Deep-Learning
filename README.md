@@ -1,12 +1,12 @@
 # Realize-Models-in-Deep-Learning
-#### I hope this will be a tutorial for freshs to Deep-Learning
+#### I hope this will be a tutorial for freshs towards the magical world of Deep-Learning
 ##### Main References:
-1: nlp-tutorial repo authored by graycode(Tae-Hwan Jung et.al.)
-https://github.com/graykode/nlp-tutorial
-2: Prof.Hungyi Lee@NTU(National Taiwan Univ.) and his tutorials
-http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
-3: Deep Learning Tutorials by Mu Li@Amazon
-https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
+##### 1: nlp-tutorial repo authored by graycode(Tae-Hwan Jung et.al.)
+##### https://github.com/graykode/nlp-tutorial
+##### 2: Prof.Hungyi Lee@NTU(National Taiwan Univ.) and his tutorials
+##### http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
+##### 3: Deep Learning Tutorials by Mu Li@Amazon
+##### https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
 ## synopsis
 ### 1: CNN
 ### 2: RNN
@@ -32,4 +32,7 @@ https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
 #### 13.3: SVM
 #### 13.4: PCA(principle-component-analysis)
 #### 13.5: K-means
+#### 13.7: Decision Tree
+#### 13.8: XGBoost
+
 
