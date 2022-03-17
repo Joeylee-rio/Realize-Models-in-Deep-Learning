@@ -11,8 +11,9 @@
 ### 1: CNN
 ### 2: RNN
 ### 3: Seq2Seq(based on RNN)
-#### 3.1: seq2seq(without attention mechanism)
-#### 3.2: seq2seq(with attention decoder)
+#### 3.1: seq2seq(without attention mechanism，LSTM-based)
+#### 3.2: seq2seq(with attention decoder, LSTM-based)
+#### 3.3: seq2seq(CNN-based encoder)
 ### 4: Transformer
 ### 5: Pretrained Language Models
 #### 5.1: BERT
